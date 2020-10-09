@@ -1,7 +1,7 @@
 # Translate App
 
 
-- Website - [Translate](https://mrtarikozturk.github.io/yandex-translate/)
+- Website - [Translate App](https://mrtarikozturk.github.io/yandex-translate/)
 
 <!-- ![Project Image](project-image-url) -->
 
